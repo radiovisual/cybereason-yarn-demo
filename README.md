@@ -43,7 +43,7 @@ As proof, here is a comparison of the yarn installation on MacBook Pro (15-inch,
 - With Cybereason **enabled**: `yarn install` took `2m9s`
 - With Cybereason **disabled**: `yarn install` took `10s`
 
-![Screenshot of benchmarks](cybereason-yarn-benchmarks.png)
+![Screenshot of benchmarks](media/cybereason-yarn-benchmarks.png)
 
 > **Note** we have had times where `yarn install` takes up 14-30 minutes to complete for projects that normally only take <20s to install.
 
